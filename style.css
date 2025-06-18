@@ -143,6 +143,11 @@ h4 {
 .welcome-img img {
   width: 200%;
 }
+@media screen and (min-width: 480px) {
+  .welcome-img img {
+    width: 90%;
+  }
+}
 .welcome-text a {
   margin: 20px 0;
 }
